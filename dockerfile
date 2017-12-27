@@ -1,8 +1,5 @@
-# To build use:
-# docker build -t schnabel/ftrobopro-env:v1 .
-
 FROM ubuntu:17.04
-MAINTAINER Ingo Schnabel
+MAINTAINER insc
 
 ENV DEBIAN_FRONTEND=noninteractive
 
