@@ -1,5 +1,5 @@
 
-Build (txt-firmware)[https://github.com/insc/txt-firmware] 
+Build [txt-firmware](https://github.com/insc/txt-firmware) 
 
 Example
 
